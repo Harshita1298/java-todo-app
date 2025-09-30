@@ -16,4 +16,4 @@ This project was created as part of my Java Developer Internship tasks.
 ## ▶️ How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/java-todo-app.git
+   git clone https://github.com/Harshita1298/java-todo-app.git
